@@ -1,4 +1,4 @@
-### Markov-Modeling
+## Markov-Modeling
   -  This code builds spatio-temporal Markov Chain transition matrices for states/regions in the US using the Maximum Likelihood Estimation Method
   
   -  The transition matrices built are for predicting the spread of protests across all US states, which have been aggregated into grid 
@@ -9,8 +9,8 @@
     on the provided dataset. See description below (under @ code) for how this can be done
 
 
-### The project contains the following folders and files:
-  @	code:
+## The project contains the following folders and files:
+##### @	code:
      -	Dataset: US_BLM_Protests.xlsx  
         -	**Place dataset in same folder as MATLAB code to run code on**
         - We chose this dataset because it is an instance that fits the description and conditions of our model
@@ -37,18 +37,18 @@
           files and put in the transition-matrices-map folder, which in turn is in the code-ouputs folder
         -	See published-folder for a published pdf version of final_code.m
       
-  @ published-code:
+  ##### @ published-code:
   -	model_informing.m: Published pdf version of model_informing.m
   -	final_code.pdf: Published pdf version of final_code.m
 
-  @	code-outputs:
+  ##### @	code-outputs:
   -  Contans results output from running the code on US_BLM_Protests.xlsx
 
   @	presentation:
   -  Explains the setup, approach, and results for the entire experiment, including the logic behind the model used in the code
    
 
-### Authors: 
+## Authors: 
   Edmund Aduse Poku 
   Charlie Reeder 
   Chris Kartsonis

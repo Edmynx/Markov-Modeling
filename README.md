@@ -12,7 +12,7 @@
 ## The project contains the following folders and files:
 ### @ code folder
 #### Dataset: US_BLM_Protests.xlsx  
--	**Place dataset in same folder as MATLAB code to run code on**
+-	`Place dataset in same folder as MATLAB code to run code on`
 - We chose this dataset because it is an instance that fits the description and conditions of our model
 - You may thus swap the current dataset with whatever dataset you wish to model as long as it fits the 
   decription of the parameters discussed in the markov-modeling-presentation.pptx file (see @ published-code)
@@ -28,7 +28,7 @@
 -	This code imports the excel dataset, processes it into a set of matrix data, creates usable variables that points 
   to the set of matrix data (which final_code.m can use), and overlays the dataset on the US map for a pictorial 
   view of the data that final_code.m will work with 
--	**Run this code before final_code.m**
+-	`Run this code before final_code.m`
 - See published-folder for a published pdf version of this file
 
 #### Matlab code: final_code.m

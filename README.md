@@ -5,7 +5,7 @@
     cells based on longitudes and latitudes. The transition matrix for each cell tells the probability with which the cell transitions 
     from one Markov state (here, state is used to mean the presence/absence of protests) to another -- see presentation for more details
     
-  -  The close to 100% generality of the code allows it to work on any dataset to produce transition matrices that can be used to make predictions 
+  -  The close-to-100% generality of the code allows it to work on any dataset to produce transition matrices that can be used to make predictions 
     on the provided dataset. See description below (under @ code) for how this can be done
 
 

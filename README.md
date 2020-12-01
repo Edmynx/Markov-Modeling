@@ -10,8 +10,8 @@
 
 
 ## The project contains the following folders and files:
-### code folder
-#### @ Dataset: US_BLM_Protests.xlsx  
+### @ code folder
+#### Dataset: US_BLM_Protests.xlsx  
 -	**Place dataset in same folder as MATLAB code to run code on**
 - We chose this dataset because it is an instance that fits the description and conditions of our model
 - You may thus swap the current dataset with whatever dataset you wish to model as long as it fits the 
@@ -24,27 +24,27 @@
   which is the powerhouse of this repo, then go ahead and generate your own set of matrix data and feed it to 
   final_code.m (See comments in final_code.m for how this can be done)
 
-#### @ Matlab code: model_informing.m
+#### Matlab code: model_informing.m
 -	This code imports the excel dataset, processes it into a set of matrix data, creates usable variables that points 
   to the set of matrix data (which final_code.m can use), and overlays the dataset on the US map for a pictorial 
   view of the data that final_code.m will work with 
 -	**Run this code before final_code.m**
 - See published-folder for a published pdf version of this file
 
-#### @ Matlab code: final_code.m
+#### Matlab code: final_code.m
 -	This is the main code that creates the transition matrices and plots their heat maps
 - Outputs generated when the code is run on US_BLM_Protests.xlsx has been saved as .jpg 
   files and put in the transition-matrices-map folder, which in turn is in the code-ouputs folder
 -	See published-folder for a published pdf version of final_code.m
       
-### published-code folder
+### @ published-code folder
 - model_informing.m: Published pdf version of model_informing.m
 -	final_code.pdf: Published pdf version of final_code.m
 
-### code-outputs folder
+### @ code-outputs folder
 - Contans results output from running the code on US_BLM_Protests.xlsx
 
-### presentation folder
+### @ presentation folder
 - Explains the setup, approach, and results for the entire experiment, including the logic behind the model used in the code
 
 

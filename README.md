@@ -37,21 +37,21 @@
         files and put in the transition-matrices-map folder, which in turn is in the code-ouputs folder
       -	See published-folder for a published pdf version of final_code.m
       
-  #### @ published-code:
-  -	model_informing.m: Published pdf version of model_informing.m
-  -	final_code.pdf: Published pdf version of final_code.m
+### @ published-code:
+- model_informing.m: Published pdf version of model_informing.m
+-	final_code.pdf: Published pdf version of final_code.m
 
-  #### @	code-outputs:
-  -  Contans results output from running the code on US_BLM_Protests.xlsx
+### @ code-outputs:
+- Contans results output from running the code on US_BLM_Protests.xlsx
 
-  @	presentation:
-  -  Explains the setup, approach, and results for the entire experiment, including the logic behind the model used in the code
-   
+### @	presentation:
+- Explains the setup, approach, and results for the entire experiment, including the logic behind the model used in the code
+
 
 ## Authors: 
-Edmund Aduse Poku 
-Charlie Reeder 
-Chris Kartsonis
-Chikezie Prosper Onungwa
-Jasper White
+- Edmund Aduse Poku 
+- Charlie Reeder 
+- Chris Kartsonis
+- Chikezie Prosper Onungwa
+- Jasper White
   
